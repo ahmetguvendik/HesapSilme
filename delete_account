@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Hesap Silme</title>
+</head>
+<body>
+  <h1>Hesabınızı Silme</h1>
+  <p>
+    EzberGo uygulamasında hesabınızı silmek için:
+    <ul>
+      <li>Profil sayfasına gidin.</li>
+      <li>“Hesabımı Sil” seçeneğine tıklayın.</li>
+      <li>Onayladıktan sonra hesabınız ve tüm verileriniz kalıcı olarak silinecektir.</li>
+    </ul>
+  </p>
+  <p>Herhangi bir sorun yaşarsanız <a href="mailto:destek@siteniz.com">destek@siteniz.com</a> adresine ulaşabilirsiniz.</p>
+</body>
+</html>
